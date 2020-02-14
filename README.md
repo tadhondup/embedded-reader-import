@@ -9,7 +9,7 @@ This script takes a TSV file (in the `input/` folder), generated from a spreadsh
 1. www.khampagar.org, https://github.com/khampagar [catalog](https://prose.io/#buda-base/embedded-reader-import/edit/master/input/W1ERI0001.csv)
 2. https://vajravidya.org
 3. www.glorioussakya.org, https://github.com/Sakya-center [catalog](https://prose.io/#buda-base/embedded-reader-import/blob/master/input/W1ERI0003.csv)
-4. Garden-jangtse [Link](https://prose.io/#buda-base/embedded-reader-import/edit/master/input/W1ERI0004.csv)
+4. www.gadenjangtse.org, https://github.com/Garden-jangtse [catalog](https://prose.io/#buda-base/embedded-reader-import/edit/master/input/W1ERI0004.csv)
 5. Gurthang Tsering [Link](https://prose.io/#buda-base/embedded-reader-import/edit/master/input/W1ERI0005.csv)
 6. Tibetan Library [Link](https://prose.io/#buda-base/embedded-reader-import/edit/master/input/W1ERI0006.csv)
 7. theyungdrungbon.com, https://github.com/geleknyima, [catalog](https://prose.io/#buda-base/embedded-reader-import/edit/master/input/W1ERI0007.csv)
